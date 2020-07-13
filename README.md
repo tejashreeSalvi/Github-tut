@@ -5,4 +5,4 @@ This api allows you to convert code-mixed language to english.
 #### ``` Code mixed sentences: India match jeet gaya. ```
 #### ``` Google Translation Api: India won the match. ```
 
-## SEE Translation_Model.ipynb book for tutorial
+## See Translation_Model.ipynb notebook for tutorial
