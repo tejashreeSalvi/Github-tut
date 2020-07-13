@@ -1,5 +1,4 @@
-# Github-tut
-Tutorial for Github
+# Google Tranlation Api
+How to use googletrans package to hit the Google Translation Api
 
-#MLH Localhost
-MLH Locahost empowers you to develop your local tech community!
+#SEE .ipynb book for tutorial
